@@ -1,16 +1,15 @@
-## Hi there 👋
+md
+## Hi, I am Wendy👋
+I'm currently a student working on building my IT and networking skills.
 
-<!--
-**spacechica/spacechica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I like learning step by step
 
-Here are some ideas to get you started:
+## Interested in learning
+GitHub basics, and Software-Defined Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working on
+Improving my technicaal skills
+
+## Favorite hobby
+I like taking pictures of the outdoors, and spending time with my children and dogs.
